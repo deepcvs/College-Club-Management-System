@@ -1,0 +1,727 @@
+INSERT into STUDENT values ('Student0', 7.82, 1, '0000', 'EEE', 'Student0@outlook.com', 9161577466, 1);
+
+INSERT into STUDENT values ('Student1', 4.97, 1, '0002', 'BT', 'Student1@hotmail.com', 7514972056, 1);
+
+INSERT into STUDENT values ('Student2', 9.7, 5, '0004', 'EEE', 'Student2@outlook.com', 8874721924, 1);
+
+INSERT into STUDENT values ('Student8', 2.45, 3, '0006', 'CV', 'Student8@outlook.com', 6827708586, 1);
+
+INSERT into STUDENT values ('Student9', 4.73, 5, '0008', 'EEE', 'Student9@yahoo.com', 9423246177, 1);
+
+INSERT into STUDENT values ('Student11', 2.29, 7, '0010', 'CV', 'Student11@rediffmail.com', 9795267615, 1);
+
+INSERT into STUDENT values ('Student13', 9.9, 7, '0012', 'EEE', 'Student13@rediffmail.com', 6801003325, 1);
+
+INSERT into STUDENT values ('Student19', 6.33, 3, '0014', 'CSE', 'Student19@hotmail.com', 8591747841, 1);
+
+INSERT into STUDENT values ('Student20', 5.78, 7, '0016', 'CSE', 'Student20@hotmail.com', 6559367495, 1);
+
+INSERT into STUDENT values ('Student22', 7.02, 5, '0018', 'CV', 'Student22@outlook.com', 9091716303, 1);
+
+INSERT into STUDENT values ('Student24', 10.53, 7, '0020', 'BT', 'Student24@gmail.com', 8934423521, 1);
+
+INSERT into STUDENT values ('Student25', 9.34, 3, '0022', 'CSE', 'Student25@rediffmail.com', 9644323591, 1);
+
+INSERT into STUDENT values ('Student27', 2.93, 3, '0024', 'ME', 'Student27@outlook.com', 9532307641, 1);
+
+INSERT into STUDENT values ('Student28', 6.38, 3, '0026', 'ECE', 'Student28@outlook.com', 6575543307, 1);
+
+INSERT into STUDENT values ('Student29', 5.34, 5, '0028', 'ME', 'Student29@outlook.com', 6745019758, 1);
+
+INSERT into STUDENT values ('Student30', 1.82, 1, '0030', 'ME', 'Student30@gmail.com', 9522644050, 1);
+
+INSERT into STUDENT values ('Student31', 8.04, 5, '0032', 'CV', 'Student31@rediffmail.com', 6254710894, 1);
+
+INSERT into STUDENT values ('Student32', 5.39, 1, '0034', 'CSE', 'Student32@gmail.com', 6976233439, 1);
+
+INSERT into STUDENT values ('Student38', 3.75, 1, '0036', 'ME', 'Student38@gmail.com', 6167157978, 1);
+
+INSERT into STUDENT values ('Student40', 6.02, 1, '0038', 'CV', 'Student40@yahoo.com', 9896151182, 1);
+
+INSERT into STUDENT values ('Student41', 6.28, 3, '0040', 'CSE', 'Student41@rediffmail.com', 9247234132, 1);
+
+INSERT into STUDENT values ('Student42', 2.23, 5, '0042', 'EEE', 'Student42@yahoo.com', 8764888757, 1);
+
+INSERT into STUDENT values ('Student44', 3.53, 5, '0044', 'CSE', 'Student44@outlook.com', 6355175598, 1);
+
+INSERT into STUDENT values ('Student46', 3.53, 3, '0046', 'BT', 'Student46@gmail.com', 8761246318, 1);
+
+INSERT into STUDENT values ('Student48', 1.5, 7, '0048', 'BT', 'Student48@gmail.com', 8977498811, 1);
+
+INSERT into STUDENT values ('Student49', 7.91, 7, '0050', 'EEE', 'Student49@yahoo.com', 6333064167, 1);
+
+INSERT into STUDENT values ('Student51', 5.12, 5, '0052', 'CSE', 'Student51@gmail.com', 9870809397, 1);
+
+INSERT into STUDENT values ('Student54', 4.98, 1, '0054', 'ME', 'Student54@outlook.com', 7924539846, 1);
+
+INSERT into STUDENT values ('Student60', 5.04, 3, '0056', 'CV', 'Student60@hotmail.com', 6952533961, 1);
+
+INSERT into STUDENT values ('Student61', 2.2, 7, '0058', 'EEE', 'Student61@rediffmail.com', 6947183914, 1);
+
+INSERT into STUDENT values ('Student64', 9.02, 3, '0060', 'CSE', 'Student64@yahoo.com', 8719596628, 1);
+
+INSERT into STUDENT values ('Student66', 4.44, 1, '0062', 'EEE', 'Student66@yahoo.com', 8375103464, 1);
+
+INSERT into STUDENT values ('Student67', 7.34, 3, '0064', 'CV', 'Student67@gmail.com', 7231479805, 1);
+
+INSERT into STUDENT values ('Student69', 8.79, 1, '0066', 'CSE', 'Student69@rediffmail.com', 8130402860, 1);
+
+INSERT into STUDENT values ('Student70', 5.81, 1, '0068', 'ECE', 'Student70@rediffmail.com', 6867140567, 1);
+
+INSERT into STUDENT values ('Student71', 2.44, 3, '0070', 'CSE', 'Student71@hotmail.com', 6446798057, 1);
+
+INSERT into STUDENT values ('Student72', 6.05, 1, '0072', 'ECE', 'Student72@yahoo.com', 6362827338, 1);
+
+INSERT into STUDENT values ('Student73', 6.76, 7, '0074', 'CV', 'Student73@gmail.com', 8474789490, 1);
+
+INSERT into STUDENT values ('Student74', 7.36, 7, '0076', 'CSE', 'Student74@outlook.com', 8397421058, 1);
+
+INSERT into STUDENT values ('Student76', 9.96, 7, '0078', 'BT', 'Student76@gmail.com', 6784009157, 1);
+
+INSERT into STUDENT values ('Student79', 9.17, 3, '0080', 'BT', 'Student79@gmail.com', 8840173847, 1);
+
+INSERT into STUDENT values ('Student81', 3.21, 3, '0082', 'ME', 'Student81@outlook.com', 6879239370, 1);
+
+INSERT into STUDENT values ('Student83', 10.76, 5, '0084', 'ME', 'Student83@yahoo.com', 7649912080, 1);
+
+INSERT into STUDENT values ('Student84', 4.08, 7, '0086', 'ECE', 'Student84@yahoo.com', 7769664392, 1);
+
+INSERT into STUDENT values ('Student88', 3.04, 3, '0088', 'CSE', 'Student88@outlook.com', 6480925893, 1);
+
+INSERT into STUDENT values ('Student89', 5.26, 5, '0090', 'CSE', 'Student89@outlook.com', 8230514121, 1);
+
+INSERT into STUDENT values ('Student90', 3.91, 1, '0092', 'ECE', 'Student90@hotmail.com', 6331173803, 1);
+
+INSERT into STUDENT values ('Student93', 8.19, 5, '0094', 'CV', 'Student93@gmail.com', 8068408221, 1);
+
+INSERT into STUDENT values ('Student97', 1.73, 3, '0096', 'BT', 'Student97@rediffmail.com', 9446983175, 1);
+
+INSERT into STUDENT values ('Student98', 2.45, 1, '0098', 'CSE', 'Student98@gmail.com', 6933805689, 1);
+
+INSERT into STUDENT values ('Student99', 1.58, 5, '0100', 'CV', 'Student99@outlook.com', 7196125725, 1);
+
+INSERT into STUDENT values ('Student100', 7.97, 1, '0102', 'CSE', 'Student100@gmail.com', 6866826453, 1);
+
+INSERT into STUDENT values ('Student101', 4.83, 5, '0104', 'ECE', 'Student101@yahoo.com', 9941197282, 1);
+
+INSERT into STUDENT values ('Student102', 2.74, 7, '0106', 'CV', 'Student102@hotmail.com', 6393557803, 1);
+
+INSERT into STUDENT values ('Student103', 3.13, 3, '0108', 'CSE', 'Student103@hotmail.com', 7810389583, 1);
+
+INSERT into STUDENT values ('Student106', 7.48, 5, '0110', 'CV', 'Student106@outlook.com', 6611231093, 1);
+
+INSERT into STUDENT values ('Student108', 4.65, 7, '0112', 'CV', 'Student108@hotmail.com', 8758146292, 1);
+
+INSERT into STUDENT values ('Student109', 10.55, 3, '0114', 'EEE', 'Student109@rediffmail.com', 7836335522, 1);
+
+INSERT into STUDENT values ('Student110', 4.15, 5, '0116', 'ECE', 'Student110@gmail.com', 8406350004, 1);
+
+INSERT into STUDENT values ('Student111', 6.15, 3, '0118', 'ME', 'Student111@outlook.com', 6261735473, 1);
+
+INSERT into STUDENT values ('Student113', 9.71, 7, '0120', 'CSE', 'Student113@hotmail.com', 9478736232, 1);
+
+INSERT into STUDENT values ('Student114', 7.0, 5, '0122', 'BT', 'Student114@yahoo.com', 6508715386, 1);
+
+INSERT into STUDENT values ('Student115', 6.13, 7, '0124', 'BT', 'Student115@rediffmail.com', 8632108246, 1);
+
+INSERT into STUDENT values ('Student116', 5.1, 5, '0126', 'BT', 'Student116@outlook.com', 6710225778, 1);
+
+INSERT into STUDENT values ('Student117', 10.8, 5, '0128', 'CV', 'Student117@yahoo.com', 7106740924, 1);
+
+INSERT into STUDENT values ('Student118', 5.34, 5, '0130', 'CSE', 'Student118@yahoo.com', 9068159456, 1);
+
+INSERT into STUDENT values ('Student119', 4.02, 1, '0132', 'ECE', 'Student119@outlook.com', 9269944375, 1);
+
+INSERT into STUDENT values ('Student120', 8.47, 3, '0134', 'ECE', 'Student120@hotmail.com', 9925162221, 1);
+
+INSERT into STUDENT values ('Student121', 10.33, 3, '0136', 'ME', 'Student121@gmail.com', 8587912586, 1);
+
+INSERT into STUDENT values ('Student125', 7.6, 3, '0138', 'CV', 'Student125@outlook.com', 6323641837, 1);
+
+INSERT into STUDENT values ('Student126', 7.88, 7, '0140', 'CV', 'Student126@outlook.com', 9624929203, 1);
+
+INSERT into STUDENT values ('Student130', 10.62, 7, '0142', 'ECE', 'Student130@rediffmail.com', 7000164034, 1);
+
+INSERT into STUDENT values ('Student131', 2.86, 3, '0144', 'CSE', 'Student131@yahoo.com', 9298131555, 1);
+
+INSERT into STUDENT values ('Student133', 6.49, 1, '0146', 'ECE', 'Student133@rediffmail.com', 6568147234, 1);
+
+INSERT into STUDENT values ('Student134', 8.31, 7, '0148', 'ME', 'Student134@yahoo.com', 9230107762, 1);
+
+INSERT into STUDENT values ('Student139', 7.68, 3, '0150', 'BT', 'Student139@hotmail.com', 6512764899, 1);
+
+INSERT into STUDENT values ('Student141', 2.67, 7, '0152', 'CV', 'Student141@hotmail.com', 7044795615, 1);
+
+INSERT into STUDENT values ('Student142', 1.54, 3, '0154', 'CV', 'Student142@rediffmail.com', 6961714410, 1);
+
+INSERT into STUDENT values ('Student143', 3.16, 5, '0156', 'BT', 'Student143@outlook.com', 8039930958, 1);
+
+INSERT into STUDENT values ('Student145', 3.61, 1, '0158', 'BT', 'Student145@outlook.com', 7216879986, 1);
+
+INSERT into STUDENT values ('Student146', 7.79, 7, '0160', 'CV', 'Student146@rediffmail.com', 6307166049, 1);
+
+INSERT into STUDENT values ('Student147', 7.01, 1, '0162', 'EEE', 'Student147@outlook.com', 6528581320, 1);
+
+INSERT into STUDENT values ('Student149', 3.19, 1, '0164', 'EEE', 'Student149@gmail.com', 7620976939, 1);
+
+INSERT into STUDENT values ('Student151', 6.59, 1, '0166', 'CSE', 'Student151@yahoo.com', 6242206306, 1);
+
+INSERT into STUDENT values ('Student152', 10.29, 3, '0168', 'ME', 'Student152@hotmail.com', 9649639287, 1);
+
+INSERT into STUDENT values ('Student155', 5.01, 3, '0170', 'CV', 'Student155@gmail.com', 9265655213, 1);
+
+INSERT into STUDENT values ('Student156', 3.49, 3, '0172', 'ECE', 'Student156@hotmail.com', 7010270658, 1);
+
+INSERT into STUDENT values ('Student157', 7.04, 5, '0174', 'CV', 'Student157@yahoo.com', 6851833240, 1);
+
+INSERT into STUDENT values ('Student164', 3.46, 3, '0176', 'ECE', 'Student164@gmail.com', 8820539067, 1);
+
+INSERT into STUDENT values ('Student165', 3.07, 1, '0178', 'CSE', 'Student165@yahoo.com', 7373162418, 1);
+
+INSERT into STUDENT values ('Student167', 2.74, 3, '0180', 'CSE', 'Student167@rediffmail.com', 6995987556, 1);
+
+INSERT into STUDENT values ('Student168', 2.35, 5, '0182', 'EEE', 'Student168@gmail.com', 7782448087, 1);
+
+INSERT into STUDENT values ('Student171', 5.14, 5, '0184', 'EEE', 'Student171@gmail.com', 9089303319, 1);
+
+INSERT into STUDENT values ('Student172', 2.52, 7, '0186', 'ME', 'Student172@rediffmail.com', 9244640836, 1);
+
+INSERT into STUDENT values ('Student173', 7.08, 3, '0188', 'CV', 'Student173@yahoo.com', 7491738769, 1);
+
+INSERT into STUDENT values ('Student174', 7.2, 1, '0190', 'BT', 'Student174@hotmail.com', 7075986450, 1);
+
+INSERT into STUDENT values ('Student178', 8.79, 3, '0192', 'CV', 'Student178@yahoo.com', 8085457499, 1);
+
+INSERT into STUDENT values ('Student179', 4.07, 1, '0194', 'EEE', 'Student179@hotmail.com', 9751020438, 1);
+
+INSERT into STUDENT values ('Student181', 3.89, 1, '0196', 'EEE', 'Student181@rediffmail.com', 8398585029, 1);
+
+INSERT into STUDENT values ('Student182', 5.72, 3, '0198', 'ME', 'Student182@hotmail.com', 7818381515, 1);
+
+INSERT into STUDENT values ('Student184', 10.08, 1, '0200', 'EEE', 'Student184@rediffmail.com', 7265889052, 1);
+
+INSERT into STUDENT values ('Student186', 8.65, 1, '0202', 'BT', 'Student186@rediffmail.com', 9947652908, 1);
+
+INSERT into STUDENT values ('Student187', 8.29, 1, '0204', 'CV', 'Student187@rediffmail.com', 6836702605, 1);
+
+INSERT into STUDENT values ('Student188', 5.17, 7, '0206', 'BT', 'Student188@hotmail.com', 9002762326, 1);
+
+INSERT into STUDENT values ('Student189', 2.77, 1, '0208', 'BT', 'Student189@yahoo.com', 7906939618, 1);
+
+INSERT into STUDENT values ('Student192', 3.14, 5, '0210', 'EEE', 'Student192@hotmail.com', 9026241916, 1);
+
+INSERT into STUDENT values ('Student193', 5.78, 1, '0212', 'ECE', 'Student193@outlook.com', 7472621024, 1);
+
+INSERT into STUDENT values ('Student196', 2.05, 1, '0214', 'ME', 'Student196@rediffmail.com', 6371589008, 1);
+
+INSERT into STUDENT values ('Student197', 2.96, 5, '0216', 'EEE', 'Student197@gmail.com', 9190815103, 1);
+
+INSERT into STUDENT values ('Student198', 9.48, 7, '0218', 'CV', 'Student198@yahoo.com', 6156940976, 1);
+
+INSERT into STUDENT values ('Student201', 5.99, 1, '0220', 'ECE', 'Student201@gmail.com', 7283799646, 1);
+
+INSERT into STUDENT values ('Student205', 1.7, 5, '0222', 'CV', 'Student205@outlook.com', 8034512935, 1);
+
+INSERT into STUDENT values ('Student206', 2.13, 7, '0224', 'ME', 'Student206@hotmail.com', 8963260782, 1);
+
+INSERT into STUDENT values ('Student209', 1.35, 1, '0226', 'CV', 'Student209@yahoo.com', 6967885307, 1);
+
+INSERT into STUDENT values ('Student210', 7.08, 5, '0228', 'EEE', 'Student210@hotmail.com', 7293936058, 1);
+
+INSERT into STUDENT values ('Student212', 4.45, 5, '0230', 'BT', 'Student212@hotmail.com', 8403185438, 1);
+
+INSERT into STUDENT values ('Student213', 7.93, 3, '0232', 'ECE', 'Student213@gmail.com', 9823929080, 1);
+
+INSERT into STUDENT values ('Student215', 1.8, 7, '0234', 'ECE', 'Student215@yahoo.com', 9810642331, 1);
+
+INSERT into STUDENT values ('Student216', 5.69, 7, '0236', 'BT', 'Student216@hotmail.com', 9286090994, 1);
+
+INSERT into STUDENT values ('Student220', 9.68, 1, '0238', 'ECE', 'Student220@yahoo.com', 6532530032, 1);
+
+INSERT into STUDENT values ('Student221', 5.21, 3, '0240', 'ME', 'Student221@rediffmail.com', 6391160151, 1);
+
+INSERT into STUDENT values ('Student225', 7.1, 1, '0242', 'ME', 'Student225@gmail.com', 7595812784, 1);
+
+INSERT into STUDENT values ('Student226', 1.58, 1, '0244', 'BT', 'Student226@outlook.com', 7513809814, 1);
+
+INSERT into STUDENT values ('Student231', 1.97, 1, '0246', 'EEE', 'Student231@gmail.com', 8346340018, 1);
+
+INSERT into STUDENT values ('Student232', 4.17, 3, '0248', 'BT', 'Student232@hotmail.com', 7495520935, 1);
+
+INSERT into STUDENT values ('Student235', 5.41, 7, '0250', 'CV', 'Student235@hotmail.com', 6575187001, 1);
+
+INSERT into STUDENT values ('Student237', 10.42, 7, '0252', 'ECE', 'Student237@rediffmail.com', 8266604640, 1);
+
+INSERT into STUDENT values ('Student240', 6.05, 3, '0254', 'EEE', 'Student240@outlook.com', 9505699559, 1);
+
+INSERT into STUDENT values ('Student243', 4.05, 3, '0256', 'BT', 'Student243@gmail.com', 6246127378, 1);
+
+INSERT into STUDENT values ('Student247', 4.02, 5, '0258', 'EEE', 'Student247@hotmail.com', 8740105268, 1);
+
+INSERT into STUDENT values ('Student250', 10.96, 7, '0260', 'CSE', 'Student250@hotmail.com', 9856772344, 1);
+
+INSERT into STUDENT values ('Student252', 8.31, 3, '0262', 'ECE', 'Student252@outlook.com', 8095945437, 1);
+
+INSERT into STUDENT values ('Student257', 1.99, 3, '0264', 'CSE', 'Student257@yahoo.com', 7818663328, 1);
+
+INSERT into STUDENT values ('Student259', 5.88, 7, '0266', 'EEE', 'Student259@outlook.com', 9622767592, 1);
+
+INSERT into STUDENT values ('Student261', 6.91, 1, '0268', 'ME', 'Student261@rediffmail.com', 6184097075, 1);
+
+INSERT into STUDENT values ('Student263', 8.31, 7, '0270', 'CSE', 'Student263@hotmail.com', 6795587909, 1);
+
+INSERT into STUDENT values ('Student264', 6.73, 3, '0272', 'BT', 'Student264@yahoo.com', 6627389253, 1);
+
+INSERT into STUDENT values ('Student265', 7.09, 1, '0274', 'ME', 'Student265@gmail.com', 6160107853, 1);
+
+INSERT into STUDENT values ('Student267', 5.0, 5, '0276', 'CSE', 'Student267@outlook.com', 8822093559, 1);
+
+INSERT into STUDENT values ('Student268', 6.21, 3, '0278', 'CSE', 'Student268@gmail.com', 8328527391, 1);
+
+INSERT into STUDENT values ('Student269', 4.84, 3, '0280', 'BT', 'Student269@hotmail.com', 6030924626, 1);
+
+INSERT into STUDENT values ('Student272', 2.78, 5, '0282', 'ECE', 'Student272@rediffmail.com', 8490574929, 1);
+
+INSERT into STUDENT values ('Student273', 5.68, 1, '0284', 'ME', 'Student273@rediffmail.com', 6362509098, 1);
+
+INSERT into STUDENT values ('Student274', 3.29, 3, '0286', 'BT', 'Student274@outlook.com', 9698269953, 1);
+
+INSERT into STUDENT values ('Student276', 10.13, 3, '0288', 'ECE', 'Student276@gmail.com', 9359452460, 1);
+
+INSERT into STUDENT values ('Student277', 1.41, 5, '0290', 'CV', 'Student277@hotmail.com', 9470668786, 1);
+
+INSERT into STUDENT values ('Student278', 8.01, 3, '0292', 'EEE', 'Student278@hotmail.com', 9707888305, 1);
+
+INSERT into STUDENT values ('Student279', 1.77, 5, '0294', 'EEE', 'Student279@yahoo.com', 8463672461, 1);
+
+INSERT into STUDENT values ('Student280', 8.69, 1, '0296', 'CSE', 'Student280@hotmail.com', 7809844794, 1);
+
+INSERT into STUDENT values ('Student281', 8.28, 1, '0298', 'EEE', 'Student281@yahoo.com', 8671657882, 1);
+
+INSERT into STUDENT values ('Student282', 3.18, 5, '0300', 'CSE', 'Student282@yahoo.com', 8115936720, 1);
+
+INSERT into STUDENT values ('Student288', 6.92, 3, '0302', 'ME', 'Student288@hotmail.com', 8922644846, 1);
+
+INSERT into STUDENT values ('Student290', 7.47, 5, '0304', 'CSE', 'Student290@rediffmail.com', 6507692974, 1);
+
+INSERT into STUDENT values ('Student292', 4.51, 5, '0306', 'EEE', 'Student292@outlook.com', 9177934803, 1);
+
+INSERT into STUDENT values ('Student295', 4.21, 1, '0308', 'EEE', 'Student295@yahoo.com', 9249829368, 1);
+
+INSERT into STUDENT values ('Student297', 1.3, 1, '0310', 'ECE', 'Student297@yahoo.com', 8630309780, 1);
+
+INSERT into STUDENT values ('Student299', 7.07, 5, '0312', 'ECE', 'Student299@rediffmail.com', 7488862521, 1);
+
+INSERT into STUDENT values ('Student300', 5.47, 3, '0314', 'ECE', 'Student300@outlook.com', 6402974946, 1);
+
+INSERT into STUDENT values ('Student301', 2.54, 3, '0316', 'CSE', 'Student301@gmail.com', 8140715842, 1);
+
+INSERT into STUDENT values ('Student302', 9.45, 7, '0318', 'CSE', 'Student302@gmail.com', 6990067713, 1);
+
+INSERT into STUDENT values ('Student303', 3.05, 7, '0320', 'ECE', 'Student303@hotmail.com', 7844819270, 1);
+
+INSERT into STUDENT values ('Student305', 2.5, 1, '0322', 'BT', 'Student305@hotmail.com', 9355593815, 1);
+
+INSERT into STUDENT values ('Student307', 10.89, 7, '0324', 'BT', 'Student307@yahoo.com', 8457976665, 1);
+
+INSERT into STUDENT values ('Student310', 10.11, 5, '0326', 'EEE', 'Student310@outlook.com', 8645266922, 1);
+
+INSERT into STUDENT values ('Student311', 3.52, 3, '0328', 'ME', 'Student311@outlook.com', 8539735517, 1);
+
+INSERT into STUDENT values ('Student313', 8.32, 1, '0330', 'BT', 'Student313@yahoo.com', 8751421091, 1);
+
+INSERT into STUDENT values ('Student314', 7.11, 1, '0332', 'ME', 'Student314@outlook.com', 7456087264, 1);
+
+INSERT into STUDENT values ('Student319', 9.05, 7, '0334', 'BT', 'Student319@rediffmail.com', 8925915256, 1);
+
+INSERT into STUDENT values ('Student323', 1.31, 1, '0336', 'ME', 'Student323@gmail.com', 9635569533, 1);
+
+INSERT into STUDENT values ('Student326', 9.57, 3, '0338', 'BT', 'Student326@rediffmail.com', 8030174131, 1);
+
+INSERT into STUDENT values ('Student330', 9.38, 1, '0340', 'EEE', 'Student330@outlook.com', 8678367892, 1);
+
+INSERT into STUDENT values ('Student331', 8.97, 1, '0342', 'ECE', 'Student331@gmail.com', 8274265048, 1);
+
+INSERT into STUDENT values ('Student332', 4.22, 3, '0344', 'EEE', 'Student332@hotmail.com', 7217249836, 1);
+
+INSERT into STUDENT values ('Student333', 3.25, 5, '0346', 'CSE', 'Student333@hotmail.com', 9242210752, 1);
+
+INSERT into STUDENT values ('Student334', 9.37, 1, '0348', 'ME', 'Student334@outlook.com', 8713491143, 1);
+
+INSERT into STUDENT values ('Student336', 10.5, 5, '0350', 'EEE', 'Student336@hotmail.com', 6870129978, 1);
+
+INSERT into STUDENT values ('Student337', 3.98, 1, '0352', 'CSE', 'Student337@hotmail.com', 7103959436, 1);
+
+INSERT into STUDENT values ('Student341', 10.5, 7, '0354', 'CSE', 'Student341@rediffmail.com', 8077260087, 1);
+
+INSERT into STUDENT values ('Student344', 9.79, 1, '0356', 'CV', 'Student344@yahoo.com', 6307203416, 1);
+
+INSERT into STUDENT values ('Student346', 8.63, 5, '0358', 'ME', 'Student346@outlook.com', 7215897087, 1);
+
+INSERT into STUDENT values ('Student347', 6.64, 1, '0360', 'ECE', 'Student347@outlook.com', 7057045430, 1);
+
+INSERT into STUDENT values ('Student349', 1.67, 7, '0362', 'BT', 'Student349@gmail.com', 7655097019, 1);
+
+INSERT into STUDENT values ('Student350', 2.55, 1, '0364', 'CSE', 'Student350@outlook.com', 7022201393, 1);
+
+INSERT into STUDENT values ('Student354', 5.92, 1, '0366', 'ME', 'Student354@hotmail.com', 7471826954, 1);
+
+INSERT into STUDENT values ('Student355', 1.74, 5, '0368', 'BT', 'Student355@hotmail.com', 6981618681, 1);
+
+INSERT into STUDENT values ('Student356', 3.23, 7, '0370', 'EEE', 'Student356@yahoo.com', 6139841443, 1);
+
+INSERT into STUDENT values ('Student358', 1.71, 5, '0372', 'CV', 'Student358@yahoo.com', 7888910451, 1);
+
+INSERT into STUDENT values ('Student360', 2.3, 5, '0374', 'CSE', 'Student360@rediffmail.com', 7943847713, 1);
+
+INSERT into STUDENT values ('Student361', 6.05, 7, '0376', 'CV', 'Student361@yahoo.com', 6363189812, 1);
+
+INSERT into STUDENT values ('Student363', 7.09, 5, '0378', 'ECE', 'Student363@gmail.com', 6515408067, 1);
+
+INSERT into STUDENT values ('Student365', 10.41, 7, '0380', 'ME', 'Student365@gmail.com', 9937583779, 1);
+
+INSERT into STUDENT values ('Student366', 2.75, 7, '0382', 'ECE', 'Student366@gmail.com', 6539401428, 1);
+
+INSERT into STUDENT values ('Student368', 4.04, 1, '0384', 'CSE', 'Student368@outlook.com', 7447527571, 1);
+
+INSERT into STUDENT values ('Student369', 9.36, 1, '0386', 'CV', 'Student369@hotmail.com', 6613504935, 1);
+
+INSERT into STUDENT values ('Student371', 7.27, 5, '0388', 'CSE', 'Student371@hotmail.com', 8239894797, 1);
+
+INSERT into STUDENT values ('Student372', 9.75, 1, '0390', 'CSE', 'Student372@yahoo.com', 9984405269, 1);
+
+INSERT into STUDENT values ('Student373', 5.23, 5, '0392', 'ME', 'Student373@outlook.com', 9625074181, 1);
+
+INSERT into STUDENT values ('Student374', 3.94, 1, '0394', 'ME', 'Student374@rediffmail.com', 7977920216, 1);
+
+INSERT into STUDENT values ('Student376', 7.19, 7, '0396', 'ME', 'Student376@gmail.com', 8210374876, 1);
+
+INSERT into STUDENT values ('Student378', 9.94, 5, '0398', 'CSE', 'Student378@yahoo.com', 8230301985, 1);
+
+INSERT into STUDENT values ('Student379', 6.8, 7, '0400', 'ME', 'Student379@rediffmail.com', 9590073808, 1);
+
+INSERT into STUDENT values ('Student382', 8.42, 1, '0402', 'ECE', 'Student382@hotmail.com', 7680983547, 1);
+
+INSERT into STUDENT values ('Student384', 9.68, 5, '0404', 'BT', 'Student384@yahoo.com', 6278342462, 1);
+
+INSERT into STUDENT values ('Student385', 7.0, 3, '0406', 'BT', 'Student385@gmail.com', 7580381527, 1);
+
+INSERT into STUDENT values ('Student386', 8.36, 3, '0408', 'CV', 'Student386@rediffmail.com', 7235650388, 1);
+
+INSERT into STUDENT values ('Student387', 2.07, 7, '0410', 'BT', 'Student387@outlook.com', 7906709204, 1);
+
+INSERT into STUDENT values ('Student391', 5.96, 1, '0412', 'ME', 'Student391@hotmail.com', 6194638801, 1);
+
+INSERT into STUDENT values ('Student392', 2.68, 3, '0414', 'ME', 'Student392@rediffmail.com', 6894829184, 1);
+
+INSERT into STUDENT values ('Student393', 8.46, 5, '0416', 'ECE', 'Student393@hotmail.com', 6829147850, 1);
+
+INSERT into STUDENT values ('Student396', 4.05, 3, '0418', 'EEE', 'Student396@rediffmail.com', 9605287139, 1);
+
+INSERT into STUDENT values ('Student398', 4.62, 5, '0420', 'EEE', 'Student398@outlook.com', 6622475446, 1);
+
+INSERT into STUDENT values ('Student399', 1.71, 5, '0422', 'EEE', 'Student399@rediffmail.com', 9578467029, 1);
+
+INSERT into STUDENT values ('Student401', 4.43, 3, '0424', 'ECE', 'Student401@hotmail.com', 6970097253, 1);
+
+INSERT into STUDENT values ('Student403', 3.6, 7, '0426', 'EEE', 'Student403@rediffmail.com', 7072139241, 1);
+
+INSERT into STUDENT values ('Student404', 4.81, 3, '0428', 'BT', 'Student404@gmail.com', 9689440322, 1);
+
+INSERT into STUDENT values ('Student405', 8.23, 7, '0430', 'CSE', 'Student405@rediffmail.com', 6347993697, 1);
+
+INSERT into STUDENT values ('Student406', 6.52, 3, '0432', 'ME', 'Student406@rediffmail.com', 6255988087, 1);
+
+INSERT into STUDENT values ('Student407', 7.9, 7, '0434', 'ECE', 'Student407@outlook.com', 7537555981, 1);
+
+INSERT into STUDENT values ('Student408', 10.68, 3, '0436', 'ECE', 'Student408@yahoo.com', 9583269922, 1);
+
+INSERT into STUDENT values ('Student409', 5.91, 7, '0438', 'ME', 'Student409@outlook.com', 7413997597, 1);
+
+INSERT into STUDENT values ('Student410', 6.12, 7, '0440', 'EEE', 'Student410@hotmail.com', 9676284426, 1);
+
+INSERT into STUDENT values ('Student411', 4.43, 3, '0442', 'BT', 'Student411@yahoo.com', 8598606546, 1);
+
+INSERT into STUDENT values ('Student413', 6.7, 3, '0444', 'EEE', 'Student413@yahoo.com', 9710807560, 1);
+
+INSERT into STUDENT values ('Student414', 6.21, 7, '0446', 'CSE', 'Student414@rediffmail.com', 8405949168, 1);
+
+INSERT into STUDENT values ('Student419', 8.37, 7, '0448', 'BT', 'Student419@yahoo.com', 6012587877, 1);
+
+INSERT into STUDENT values ('Student420', 9.45, 3, '0450', 'BT', 'Student420@rediffmail.com', 6272621231, 1);
+
+INSERT into STUDENT values ('Student421', 1.24, 1, '0452', 'ECE', 'Student421@gmail.com', 7083616209, 1);
+
+INSERT into STUDENT values ('Student424', 8.15, 1, '0454', 'EEE', 'Student424@rediffmail.com', 6244301816, 1);
+
+INSERT into STUDENT values ('Student426', 7.12, 3, '0456', 'BT', 'Student426@rediffmail.com', 6619510208, 1);
+
+INSERT into STUDENT values ('Student432', 9.94, 7, '0458', 'EEE', 'Student432@hotmail.com', 7404150543, 1);
+
+INSERT into STUDENT values ('Student433', 10.23, 3, '0460', 'CSE', 'Student433@rediffmail.com', 8351676826, 1);
+
+INSERT into STUDENT values ('Student434', 2.85, 5, '0462', 'BT', 'Student434@yahoo.com', 7852851875, 1);
+
+INSERT into STUDENT values ('Student435', 3.19, 7, '0464', 'ME', 'Student435@outlook.com', 9527884395, 1);
+
+INSERT into STUDENT values ('Student436', 10.22, 5, '0466', 'EEE', 'Student436@hotmail.com', 6974262775, 1);
+
+INSERT into STUDENT values ('Student437', 4.37, 1, '0468', 'EEE', 'Student437@outlook.com', 6981949294, 1);
+
+INSERT into STUDENT values ('Student440', 7.24, 7, '0470', 'ME', 'Student440@gmail.com', 8993343679, 1);
+
+INSERT into STUDENT values ('Student442', 5.95, 3, '0472', 'ME', 'Student442@yahoo.com', 6066552018, 1);
+
+INSERT into STUDENT values ('Student444', 6.18, 1, '0474', 'ECE', 'Student444@outlook.com', 7532010134, 1);
+
+INSERT into STUDENT values ('Student447', 3.11, 5, '0476', 'CV', 'Student447@outlook.com', 8268902436, 1);
+
+INSERT into STUDENT values ('Student448', 3.64, 5, '0478', 'CSE', 'Student448@rediffmail.com', 8451749517, 1);
+
+INSERT into STUDENT values ('Student449', 5.61, 5, '0480', 'CV', 'Student449@hotmail.com', 6663666845, 1);
+
+INSERT into STUDENT values ('Student450', 1.18, 3, '0482', 'BT', 'Student450@outlook.com', 8467484093, 1);
+
+INSERT into STUDENT values ('Student453', 3.27, 1, '0484', 'ME', 'Student453@rediffmail.com', 8667543798, 1);
+
+INSERT into STUDENT values ('Student459', 7.56, 1, '0486', 'ECE', 'Student459@outlook.com', 8875133391, 1);
+
+INSERT into STUDENT values ('Student462', 8.06, 1, '0488', 'CSE', 'Student462@outlook.com', 8558285946, 1);
+
+INSERT into STUDENT values ('Student464', 6.98, 7, '0490', 'BT', 'Student464@gmail.com', 9958077974, 1);
+
+INSERT into STUDENT values ('Student468', 5.57, 7, '0492', 'EEE', 'Student468@rediffmail.com', 9707653176, 1);
+
+INSERT into STUDENT values ('Student471', 3.72, 3, '0494', 'ECE', 'Student471@yahoo.com', 8701813288, 1);
+
+INSERT into STUDENT values ('Student473', 10.92, 7, '0496', 'CV', 'Student473@yahoo.com', 8570257806, 1);
+
+INSERT into STUDENT values ('Student475', 8.61, 7, '0498', 'ECE', 'Student475@hotmail.com', 9220464006, 1);
+
+INSERT into STUDENT values ('Student477', 4.87, 1, '0500', 'CSE', 'Student477@rediffmail.com', 8541370969, 1);
+
+INSERT into STUDENT values ('Student478', 5.69, 3, '0502', 'EEE', 'Student478@hotmail.com', 9146036468, 1);
+
+INSERT into STUDENT values ('Student480', 7.71, 3, '0504', 'BT', 'Student480@rediffmail.com', 8258651265, 1);
+
+INSERT into STUDENT values ('Student481', 3.05, 7, '0506', 'ECE', 'Student481@rediffmail.com', 6759564091, 1);
+
+INSERT into STUDENT values ('Student485', 7.27, 5, '0508', 'CV', 'Student485@rediffmail.com', 8174269286, 1);
+
+INSERT into STUDENT values ('Student486', 1.95, 3, '0510', 'ME', 'Student486@rediffmail.com', 8846079241, 1);
+
+INSERT into STUDENT values ('Student487', 5.0, 7, '0512', 'CSE', 'Student487@rediffmail.com', 8819253992, 1);
+
+INSERT into STUDENT values ('Student488', 3.29, 1, '0514', 'BT', 'Student488@rediffmail.com', 6941979519, 1);
+
+INSERT into STUDENT values ('Student489', 9.67, 1, '0516', 'BT', 'Student489@outlook.com', 6038665069, 1);
+
+INSERT into STUDENT values ('Student491', 9.78, 1, '0518', 'EEE', 'Student491@gmail.com', 7035947182, 1);
+
+INSERT into STUDENT values ('Student493', 2.74, 1, '0520', 'CSE', 'Student493@rediffmail.com', 8960463363, 1);
+
+INSERT into STUDENT values ('Student494', 4.17, 1, '0522', 'CV', 'Student494@outlook.com', 8554520817, 1);
+
+INSERT into STUDENT values ('Student495', 4.06, 1, '0524', 'BT', 'Student495@hotmail.com', 9253382608, 1);
+
+INSERT into STUDENT values ('Student496', 6.14, 3, '0526', 'CV', 'Student496@rediffmail.com', 7293197917, 1);
+
+INSERT into STUDENT values ('Student497', 5.87, 5, '0528', 'CV', 'Student497@gmail.com', 7619037123, 1);
+
+INSERT into STUDENT values ('Student498', 2.38, 7, '0530', 'BT', 'Student498@hotmail.com', 8225281646, 1);
+
+INSERT into STUDENT values ('Student502', 2.81, 3, '0532', 'CV', 'Student502@rediffmail.com', 9838620876, 1);
+
+INSERT into STUDENT values ('Student505', 1.1, 3, '0534', 'EEE', 'Student505@gmail.com', 8837990777, 1);
+
+INSERT into STUDENT values ('Student506', 2.02, 7, '0536', 'ECE', 'Student506@gmail.com', 9527128283, 1);
+
+INSERT into STUDENT values ('Student508', 3.08, 3, '0538', 'CSE', 'Student508@yahoo.com', 8423295863, 1);
+
+INSERT into STUDENT values ('Student509', 1.85, 1, '0540', 'CV', 'Student509@rediffmail.com', 9847005614, 1);
+
+INSERT into STUDENT values ('Student514', 4.7, 7, '0542', 'ME', 'Student514@rediffmail.com', 7730179599, 1);
+
+INSERT into STUDENT values ('Student515', 2.75, 1, '0544', 'EEE', 'Student515@yahoo.com', 6292241098, 1);
+
+INSERT into STUDENT values ('Student516', 10.35, 3, '0546', 'EEE', 'Student516@rediffmail.com', 8255620512, 1);
+
+INSERT into STUDENT values ('Student517', 5.79, 5, '0548', 'ECE', 'Student517@outlook.com', 9758480401, 1);
+
+INSERT into STUDENT values ('Student519', 3.52, 5, '0550', 'EEE', 'Student519@yahoo.com', 9951194617, 1);
+
+INSERT into STUDENT values ('Student520', 6.55, 7, '0552', 'CSE', 'Student520@hotmail.com', 9559078943, 1);
+
+INSERT into STUDENT values ('Student523', 1.55, 1, '0554', 'ME', 'Student523@rediffmail.com', 9340969012, 1);
+
+INSERT into STUDENT values ('Student524', 6.7, 3, '0556', 'EEE', 'Student524@gmail.com', 9709548910, 1);
+
+INSERT into STUDENT values ('Student525', 6.91, 7, '0558', 'CSE', 'Student525@outlook.com', 6126176550, 1);
+
+INSERT into STUDENT values ('Student526', 9.42, 5, '0560', 'CV', 'Student526@outlook.com', 8069926981, 1);
+
+INSERT into STUDENT values ('Student529', 2.0, 3, '0562', 'CV', 'Student529@yahoo.com', 8053875768, 1);
+
+INSERT into STUDENT values ('Student539', 8.85, 3, '0564', 'EEE', 'Student539@rediffmail.com', 8707144564, 1);
+
+INSERT into STUDENT values ('Student543', 8.32, 3, '0566', 'ME', 'Student543@rediffmail.com', 6147174704, 1);
+
+INSERT into STUDENT values ('Student544', 9.29, 5, '0568', 'BT', 'Student544@outlook.com', 6214375134, 1);
+
+INSERT into STUDENT values ('Student545', 8.31, 3, '0570', 'ECE', 'Student545@gmail.com', 7830887860, 1);
+
+INSERT into STUDENT values ('Student550', 7.47, 1, '0572', 'CSE', 'Student550@outlook.com', 9951781862, 1);
+
+INSERT into STUDENT values ('Student551', 9.57, 5, '0574', 'ECE', 'Student551@hotmail.com', 8491880676, 1);
+
+INSERT into STUDENT values ('Student552', 9.97, 3, '0576', 'CV', 'Student552@hotmail.com', 6024304035, 1);
+
+INSERT into STUDENT values ('Student554', 8.08, 5, '0578', 'CV', 'Student554@yahoo.com', 6536689633, 1);
+
+INSERT into STUDENT values ('Student555', 5.76, 7, '0580', 'CV', 'Student555@yahoo.com', 9342405672, 1);
+
+INSERT into STUDENT values ('Student557', 9.28, 1, '0582', 'ECE', 'Student557@outlook.com', 8178473425, 1);
+
+INSERT into STUDENT values ('Student559', 3.84, 7, '0584', 'EEE', 'Student559@outlook.com', 8051900327, 1);
+
+INSERT into STUDENT values ('Student561', 9.42, 7, '0586', 'BT', 'Student561@yahoo.com', 7520891127, 1);
+
+INSERT into STUDENT values ('Student562', 3.15, 1, '0588', 'ME', 'Student562@gmail.com', 8470831858, 1);
+
+INSERT into STUDENT values ('Student563', 4.64, 1, '0590', 'ME', 'Student563@outlook.com', 7053386817, 1);
+
+INSERT into STUDENT values ('Student567', 5.95, 1, '0592', 'ECE', 'Student567@rediffmail.com', 9620313481, 1);
+
+INSERT into STUDENT values ('Student572', 6.84, 5, '0594', 'EEE', 'Student572@yahoo.com', 9754005925, 1);
+
+INSERT into STUDENT values ('Student574', 7.24, 7, '0596', 'ECE', 'Student574@rediffmail.com', 8744084803, 1);
+
+INSERT into STUDENT values ('Student575', 5.89, 5, '0598', 'ME', 'Student575@gmail.com', 6411101940, 1);
+
+INSERT into STUDENT values ('Student577', 6.21, 3, '0600', 'CV', 'Student577@gmail.com', 8364001408, 1);
+
+INSERT into STUDENT values ('Student578', 3.12, 3, '0602', 'EEE', 'Student578@outlook.com', 7432345004, 1);
+
+INSERT into STUDENT values ('Student583', 5.85, 3, '0604', 'ECE', 'Student583@yahoo.com', 8585527174, 1);
+
+INSERT into STUDENT values ('Student586', 8.9, 3, '0606', 'EEE', 'Student586@outlook.com', 9568576513, 1);
+
+INSERT into STUDENT values ('Student588', 7.22, 7, '0608', 'CV', 'Student588@hotmail.com', 7230687447, 1);
+
+INSERT into STUDENT values ('Student589', 2.03, 1, '0610', 'CSE', 'Student589@outlook.com', 8892207390, 1);
+
+INSERT into STUDENT values ('Student591', 1.0, 5, '0612', 'CSE', 'Student591@gmail.com', 9974837643, 1);
+
+INSERT into STUDENT values ('Student594', 7.01, 3, '0614', 'ECE', 'Student594@hotmail.com', 9151350920, 1);
+
+INSERT into STUDENT values ('Student595', 3.7, 5, '0616', 'CV', 'Student595@rediffmail.com', 9739663494, 1);
+
+INSERT into STUDENT values ('Student596', 2.54, 3, '0618', 'BT', 'Student596@yahoo.com', 7718952922, 1);
+
+INSERT into STUDENT values ('Student597', 9.9, 1, '0620', 'CSE', 'Student597@rediffmail.com', 7920579596, 1);
+
+INSERT into STUDENT values ('Student599', 6.83, 3, '0622', 'CV', 'Student599@gmail.com', 7744408723, 1);
+
+INSERT into STUDENT values ('Student600', 1.26, 1, '0624', 'EEE', 'Student600@outlook.com', 9449004875, 1);
+
+INSERT into STUDENT values ('Student603', 8.18, 1, '0626', 'CV', 'Student603@yahoo.com', 6591843816, 1);
+
+INSERT into STUDENT values ('Student605', 10.11, 3, '0628', 'BT', 'Student605@outlook.com', 9585269615, 1);
+
+INSERT into STUDENT values ('Student606', 1.59, 5, '0630', 'EEE', 'Student606@hotmail.com', 9585318599, 1);
+
+INSERT into STUDENT values ('Student607', 6.45, 5, '0632', 'CSE', 'Student607@outlook.com', 6810439740, 1);
+
+INSERT into STUDENT values ('Student611', 4.59, 7, '0634', 'ECE', 'Student611@hotmail.com', 9406676094, 1);
+
+INSERT into STUDENT values ('Student612', 7.71, 5, '0636', 'EEE', 'Student612@yahoo.com', 6121696989, 1);
+
+INSERT into STUDENT values ('Student613', 4.38, 1, '0638', 'BT', 'Student613@gmail.com', 9775593686, 1);
+
+INSERT into STUDENT values ('Student616', 1.23, 1, '0640', 'EEE', 'Student616@gmail.com', 9147185477, 1);
+
+INSERT into STUDENT values ('Student618', 1.47, 7, '0642', 'EEE', 'Student618@gmail.com', 6143947365, 1);
+
+INSERT into STUDENT values ('Student624', 5.12, 5, '0644', 'EEE', 'Student624@rediffmail.com', 9468900312, 1);
+
+INSERT into STUDENT values ('Student630', 5.04, 1, '0646', 'ME', 'Student630@yahoo.com', 8983352286, 1);
+
+INSERT into STUDENT values ('Student632', 3.07, 1, '0648', 'CV', 'Student632@outlook.com', 7867935803, 1);
+
+INSERT into STUDENT values ('Student633', 1.82, 7, '0650', 'BT', 'Student633@hotmail.com', 9048415253, 1);
+
+INSERT into STUDENT values ('Student636', 4.83, 1, '0652', 'ECE', 'Student636@yahoo.com', 6608338615, 1);
+
+INSERT into STUDENT values ('Student637', 3.62, 5, '0654', 'BT', 'Student637@outlook.com', 9937947822, 1);
+
+INSERT into STUDENT values ('Student642', 8.87, 3, '0656', 'BT', 'Student642@yahoo.com', 7352481338, 1);
+
+INSERT into STUDENT values ('Student643', 2.66, 5, '0658', 'BT', 'Student643@hotmail.com', 6849999821, 1);
+
+INSERT into STUDENT values ('Student644', 8.37, 5, '0660', 'ECE', 'Student644@gmail.com', 6116128314, 1);
+
+INSERT into STUDENT values ('Student645', 6.64, 7, '0662', 'ECE', 'Student645@yahoo.com', 6103237146, 1);
+
+INSERT into STUDENT values ('Student646', 3.16, 1, '0664', 'ECE', 'Student646@outlook.com', 8656184951, 1);
+
+INSERT into STUDENT values ('Student648', 6.27, 3, '0666', 'CSE', 'Student648@outlook.com', 6559267403, 1);
+
+INSERT into STUDENT values ('Student652', 8.99, 1, '0668', 'CSE', 'Student652@outlook.com', 9386481704, 1);
+
+INSERT into STUDENT values ('Student653', 8.3, 5, '0670', 'BT', 'Student653@hotmail.com', 9927756306, 1);
+
+INSERT into STUDENT values ('Student655', 8.22, 3, '0672', 'EEE', 'Student655@gmail.com', 9361575619, 1);
+
+INSERT into STUDENT values ('Student656', 4.88, 1, '0674', 'BT', 'Student656@rediffmail.com', 7197302986, 1);
+
+INSERT into STUDENT values ('Student658', 8.44, 1, '0676', 'BT', 'Student658@gmail.com', 6919503529, 1);
+
+INSERT into STUDENT values ('Student662', 6.95, 7, '0678', 'BT', 'Student662@gmail.com', 8814485826, 1);
+
+INSERT into STUDENT values ('Student663', 5.26, 3, '0680', 'ME', 'Student663@gmail.com', 8962496497, 1);
+
+INSERT into STUDENT values ('Student666', 5.21, 7, '0682', 'BT', 'Student666@outlook.com', 9856935120, 1);
+
+INSERT into STUDENT values ('Student668', 1.4, 3, '0684', 'ECE', 'Student668@rediffmail.com', 7047913386, 1);
+
+INSERT into STUDENT values ('Student670', 9.13, 1, '0686', 'ME', 'Student670@hotmail.com', 7680264166, 1);
+
+INSERT into STUDENT values ('Student671', 8.2, 3, '0688', 'CV', 'Student671@hotmail.com', 9381194020, 1);
+
+INSERT into STUDENT values ('Student672', 10.2, 7, '0690', 'ME', 'Student672@yahoo.com', 9642000104, 1);
+
+INSERT into STUDENT values ('Student674', 7.79, 7, '0692', 'EEE', 'Student674@hotmail.com', 9581350251, 1);
+
+INSERT into STUDENT values ('Student675', 6.76, 1, '0694', 'BT', 'Student675@outlook.com', 8639798850, 1);
+
+INSERT into STUDENT values ('Student676', 6.54, 7, '0696', 'CSE', 'Student676@yahoo.com', 7193766254, 1);
+
+INSERT into STUDENT values ('Student678', 5.04, 5, '0698', 'ME', 'Student678@outlook.com', 8828828910, 1);
+
+INSERT into STUDENT values ('Student679', 2.24, 7, '0700', 'ME', 'Student679@outlook.com', 8524133268, 1);
+
+INSERT into STUDENT values ('Student680', 7.17, 1, '0702', 'EEE', 'Student680@hotmail.com', 8091169134, 1);
+
+INSERT into STUDENT values ('Student681', 9.94, 1, '0704', 'ME', 'Student681@gmail.com', 9551398367, 1);
+
+INSERT into STUDENT values ('Student682', 8.68, 5, '0706', 'CV', 'Student682@hotmail.com', 8311509152, 1);
+
+INSERT into STUDENT values ('Student683', 4.17, 7, '0708', 'BT', 'Student683@yahoo.com', 6207027659, 1);
+
+INSERT into STUDENT values ('Student684', 6.73, 7, '0710', 'BT', 'Student684@outlook.com', 7854904309, 1);
+
+INSERT into STUDENT values ('Student685', 4.33, 7, '0712', 'EEE', 'Student685@yahoo.com', 6597049280, 1);
+
+INSERT into STUDENT values ('Student689', 8.84, 7, '0714', 'BT', 'Student689@hotmail.com', 7697954268, 1);
+
+INSERT into STUDENT values ('Student690', 6.8, 5, '0716', 'ECE', 'Student690@hotmail.com', 6286037450, 1);
+
+INSERT into STUDENT values ('Student691', 9.27, 1, '0718', 'CSE', 'Student691@hotmail.com', 9028852155, 1);
+
+INSERT into STUDENT values ('Student692', 9.7, 3, '0720', 'CSE', 'Student692@rediffmail.com', 7160208300, 1);
+
+INSERT into STUDENT values ('Student693', 2.66, 5, '0722', 'ECE', 'Student693@yahoo.com', 6372007469, 1);
+
+INSERT into STUDENT values ('Student695', 4.15, 5, '0724', 'CSE', 'Student695@hotmail.com', 8759462176, 1);
+
+INSERT into STUDENT values ('Student696', 6.01, 1, '0726', 'CV', 'Student696@gmail.com', 6873279759, 1);
